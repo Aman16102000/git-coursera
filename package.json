@@ -1,0 +1,22 @@
+{
+  "name": "git-coursera",
+  "version": "1.0.0",
+  "description": "\"This is test directory\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aman16102000/git-coursera.git"
+  },
+  "author": "Aman Thakur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aman16102000/git-coursera/issues"
+  },
+  "homepage": "https://github.com/Aman16102000/git-coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
